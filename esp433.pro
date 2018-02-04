@@ -1,4 +1,4 @@
-update=Friday, January 26, 2018 'PMt' 09:33:49 PM
+update=Saturday, February 03, 2018 'PMt' 04:52:09 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -66,3 +66,4 @@ LibName34=ftdi
 LibName35=hc11
 LibName36=Mechanical
 LibName37=Switch
+LibName38=esp433
