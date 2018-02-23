@@ -2,6 +2,12 @@
 
 KiCad source to build an ESP8266 WiFi to 433MHz ASK/OOK bridge
 
+## How to Build One
+
+This board is available on Oshpark: https://oshpark.com/shared_projects/3DN5CfsZ
+
+The bom has been exported here as esp433.csv
+
 ## Key Components
 
 * ESP12s - ESP8266 surface mount WiFi module
